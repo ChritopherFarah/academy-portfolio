@@ -41,15 +41,15 @@ Now you can access your application at http://localhost:4200/.
 
 
 ### In-Class Work 
-- [ ]  Go over vanilla project and understand how to divide the page
 - [ ]  Setup new project, go over the automatically generated files and how angular works
+- [ ]  Add a commit message about the project setup and push it
+- [ ]  Go over vanilla project and understand how to divide the page
 - [ ]  Define a suggested architecture
 - [ ] Create the components
     ```
   ng g c navbar
   ```
-- [ ] Add a commit message about the project setup and push it
-- [ ] Copy the navar section from the vanilla project and paste it into the navbat component you just created
+- [ ] Copy the navbar section from the vanilla project and paste it into the navbar component you just created
 - [ ] Include component specific styles in the component's stylesheet
 - [ ] Update the css styles used to use scss styles
 - [ ] Include global styles in styles.scss
@@ -58,4 +58,4 @@ Now you can access your application at http://localhost:4200/.
 - Bonus: Write and link a function to the TS file
 
 
-**Make sure to commit and push your changes then create a Pull Request and assign christyantoun as reviewer**
+**Make sure to commit and push your changes then create a Pull Request and assign mayssam1998 as reviewer**
