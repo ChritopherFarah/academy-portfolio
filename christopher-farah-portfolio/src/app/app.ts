@@ -1,13 +1,14 @@
 import {Component} from '@angular/core';
-import { NavbarComponent } from './navbar/navbar';
+import { Navbar } from './navbar/navbar';
+
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.html',
   styleUrls: ['./app.scss'],
   standalone: true,
-  imports: [NavbarComponent]
+  imports: [Navbar]
 })
 export class App {
-  intro: string = "Chris Farah's portfolio";
+  intro: string = "Class work: navbar";
 }
